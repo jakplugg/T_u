@@ -11,4 +11,4 @@
 
 Note about the panel: there are 2 different hole spacing for the displays, Adafruit or ones made from the adafruit gerbers will fit the FPD panel in the panel folder. chinese ones from ebay, amazon, alliexpress, etc have a different hole spacing (see the pdf for oval holes used on PCB-panel) the PCB also has oval holes to support both displays.
 
-There are Gerber files for a budgewt "pcb panel" in the gerbers folder. 
+There are Gerber files for a budget "pcb panel" in the gerbers folder. 
